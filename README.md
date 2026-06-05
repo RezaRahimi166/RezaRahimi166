@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
-<h3 align="center">Hybrid IT Specialist | Full-Stack Web Developer & IT Infrastructure Engineer</h3>
+<h3 align="center">Hybrid IT Specialist | Frontend Web Developer & IT Infrastructure Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
 - 🎓 **Focus:** Aspiring Fachinformatiker for **Systemintegration** & **Anwendungsentwicklung** in Germany.
 - ⚡ **Core Philosophy:** Automation, robust network security, and maintaining a 99.9% system uptime mindset.
-- 🌱 I’m currently expanding my skills in **Linux System Administration & Advanced DevOps**.
+- 🌱 I’m currently expanding my skills in **Linux System Administration & IT Infrastructure**.
 - 👨‍💻 All of my projects are available at [https://github.com/RezaRahimi166](https://github.com/RezaRahimi166)
 - 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**.
 - 📫 How to reach me: **reza.rahimi99.dev@gmail.com**
@@ -26,14 +26,13 @@
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Infrastructure, Networks & Security Tools (Systemintegration):</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" alt="cisco" width="40" height="40"/> </a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-logo.svg" alt="cisco" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
