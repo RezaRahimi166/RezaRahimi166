@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
 <h3 align="center">Hybrid IT Specialist | Full-Stack Web Developer & IT Infrastructure Engineer</h3>
 
-<img align="right" alt="reza" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e64726962626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"   />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
 - 🎓 **Focus:** Aspiring Fachinformatiker for **Systemintegration** & **Anwendungsentwicklung** in Germany.
@@ -34,8 +32,8 @@
 <h3 align="left">Infrastructure, Networks & Security Tools (Systemintegration):</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-official.svg" alt="cisco" width="42" height="42"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-logo.svg" alt="cisco" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
