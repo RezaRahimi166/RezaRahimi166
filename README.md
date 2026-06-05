@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
 - 🎓 **Focus:** Aspiring Fachinformatiker for **Systemintegration** & **Anwendungsentwicklung** in Germany.
-- ⚡ **Core Philosophy:** Automation, robust network security, and maintaining a 99.9% system uptime mindset[cite: 3].
-- 🌱 I’m currently expanding my skills in **Linux System Administration & Advanced DevOps**[cite: 3].
+- ⚡ **Core Philosophy:** Automation, robust network security, and maintaining a 99.9% system uptime mindset.
+- 🌱 I’m currently expanding my skills in **Linux System Administration & Advanced DevOps**.
 - 👨‍💻 All of my projects are available at [https://github.com/RezaRahimi166](https://github.com/RezaRahimi166)
-- 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**[cite: 3].
+- 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**.
 - 📫 How to reach me: **reza.rahimi99.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
