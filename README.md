@@ -12,7 +12,8 @@
 
 - 💬 Ask me about **react && Nextjs**
 
-- 📫 How to reach me **rezaa.salami99@gmail.com**
+- 📫 How to reach me **reza.rahimi99.dev@gmail.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
