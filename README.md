@@ -1,4 +1,4 @@
-<img width="971" height="512" alt="image" src="https://github.com/user-attachments/assets/9b52e713-01c7-4fc9-b380-d49cbccdfab0" /><h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
+<h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
 <h3 align="center">Hybrid IT Specialist | Frontend Web Developer & IT Infrastructure Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
@@ -28,8 +28,8 @@
 <h3 align="left">Infrastructure, Networks & Security Tools (Systemintegration):</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Infrastructure Skills" />
-  <img src="https://dashboardicons.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcisco.b2839d48.png&w=256&q=75" alt="Cisco" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" />
-  <img width="971" height="512" alt="image" src="https://github.com/user-attachments/assets/e8a831c7-3766-4991-918f-d1b9b5b139b3" />
+ 
+  <img alt="Cisco" width="48" height="48" src="https://github.com/user-attachments/assets/e8a831c7-3766-4991-918f-d1b9b5b139b3" />
 
   <img src="https://skillicons.dev/icons?i=git" alt="Git Skill" style="margin-left: 4px;" />
 </p>
