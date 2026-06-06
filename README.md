@@ -30,7 +30,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezarahimi166&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezarahimi166&theme=tokyonight" alt="GitHub Stats" width="100%" />
-</p>
-
