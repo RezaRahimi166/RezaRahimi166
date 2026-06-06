@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
-<h3 align="center">Hybrid IT Specialist | Frontend Web Developer & IT Infrastructure Engineer</h3>
+<h3 align="center">
+Frontend Web Developer (Next.js & React) | IT Infrastructure Enthusiast | Aspiring Fachinformatiker
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
-- 🎓 **Focus:** Aspiring Fachinformatiker for **Systemintegration** & **Anwendungsentwicklung** in Germany.
-- ⚡ **Core Philosophy:** Automation, robust network security, and maintaining a 99.9% system uptime mindset.
+- 🎓 Seeking an Ausbildung as Fachinformatiker für Systemintegration or Anwendungsentwicklung in Germany.
+- ⚡ Interests: Automation, Linux Administration, Networking, IT Security and Reliable Infrastructure.
 - 🌱 I’m currently expanding my skills in **Linux System Administration & IT Infrastructure**.
 - 👨‍💻 All of my projects are available at [https://github.com/RezaRahimi166](https://github.com/RezaRahimi166)
 - 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**.
