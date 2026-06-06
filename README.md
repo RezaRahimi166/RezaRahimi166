@@ -38,10 +38,10 @@
 
 <h3 align="left">GitHub Metrics & Productivity:</h3>
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezarahimi166&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezarahimi166" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezarahimi166&show_icons=true&locale=en&theme=tokyonight" alt="rezarahimi166" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=rezarahimi166&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezarahimi166&theme=tokyonight" alt="rezarahimi166" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezarahimi166&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </p>
+
