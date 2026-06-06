@@ -11,6 +11,7 @@ Frontend Web Developer (Next.js & React) | IT Infrastructure Enthusiast | Aspiri
 - 👨‍💻 All of my projects are available at [https://github.com/RezaRahimi166](https://github.com/RezaRahimi166)
 - 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**.
 - 📫 How to reach me: **reza.rahimi99.dev@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/reza-rahimi-dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
