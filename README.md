@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
 <h3 align="center">
-Frontend Web Developer (Next.js & React) | IT Infrastructure Enthusiast | Aspiring Fachinformatiker
-</h3>
+### Web Development | IT Infrastructure & Networking | Aspiring Fachinformatiker für Systemintegration & Anwendungsentwicklung</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
-- 🎓 Seeking an Ausbildung as Fachinformatiker für Systemintegration or Anwendungsentwicklung in Germany.
-- ⚡ Interests: Automation, Linux Administration, Networking, IT Security and Reliable Infrastructure.
-- 🌱 I’m currently expanding my skills in **Linux System Administration & IT Infrastructure**.
-- 👨‍💻 All of my projects are available at [https://github.com/RezaRahimi166](https://github.com/RezaRahimi166)
-- 💬 Ask me about **Next.js, Tailwind CSS, Cisco Routing/VLANs & Linux Server Security**.
-- 📫 How to reach me: **reza.rahimi99.dev@gmail.com**
-- 💼 LinkedIn: www.linkedin.com/in/reza-rahimi-dev
+* 🎯 Seeking an Ausbildung as Fachinformatiker für Systemintegration or Anwendungsentwicklung in Germany.
+* ⚡ Interests: Cloud Computing, Server Administration, Networking, IT Security and Web Development.
+* 🌱 I'm currently expanding my skills in **AWS Cloud Architecture** & **Advanced Networking**.
+* 🚀 Professional Portfolio available at: [reza-rahimi.xyz](https://www.reza-rahimi.xyz/)
+* 💬 Ask me about: **Next.js, TypeScript, CompTIA Network+, Linux (Ubuntu/Windows Server) & Cisco Fundamentals**.
+* 📫 How to reach me: [mohammadrahimi99@gmail.com](mailto:mohammadrahimi99@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/reza-rahimi-dev](https://www.linkedin.com/in/reza-rahimi-dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
