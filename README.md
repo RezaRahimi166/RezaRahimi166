@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza Rahimi</h1>
-<h3 align="center">
-### Web Development | IT Infrastructure & Networking | Aspiring Fachinformatiker für Systemintegration & Anwendungsentwicklung</h3>
+<h3 align="center">Web Development | IT Infrastructure & Networking | Aspiring Fachinformatiker für Systemintegration & Anwendungsentwicklung</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezarahimi166&label=Profile%20views&color=0e75b6&style=flat" alt="rezarahimi166" /> </p>
 
 * 🎯 Seeking an Ausbildung as Fachinformatiker für Systemintegration or Anwendungsentwicklung in Germany.
 * ⚡ Interests: Cloud Computing, Server Administration, Networking, IT Security and Web Development.
-* 🌱 I'm currently expanding my skills in **AWS Cloud Architecture** & **Advanced Networking**.
+* 🌱 I'm currently expanding my skills in AWS Cloud Architecture & Advanced Networking.
 * 🚀 Professional Portfolio available at: [reza-rahimi.xyz](https://www.reza-rahimi.xyz/)
 * 💬 Ask me about: **Next.js, TypeScript, CompTIA Network+, Linux (Ubuntu/Windows Server) & Cisco Fundamentals**.
-* 📫 How to reach me: [mohammadrahimi99@gmail.com](mailto:mohammadrahimi99@gmail.com)
+* 📫 How to reach me: [reza.rahimi99.dev@gmail.com](mailto:reza.rahimi99.dev@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/reza-rahimi-dev](https://www.linkedin.com/in/reza-rahimi-dev)
 
 <h3 align="left">Connect with me:</h3>
